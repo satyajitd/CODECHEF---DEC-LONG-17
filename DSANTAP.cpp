@@ -1,3 +1,4 @@
+// 5 points
 #include<bits/stdc++.h>
 using namespace std;
 
